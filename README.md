@@ -1,4 +1,4 @@
-# 📱 Contact Manager App
+# 📱 Aplicativo Mobile de Coontatos com a Operação CRUD
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Contact+Manager+App;Flutter+%7C+Dart+%7C+SQLite;CRUD+Application;Projeto+Integrador+V"/>
