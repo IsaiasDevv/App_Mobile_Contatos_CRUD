@@ -1,53 +1,59 @@
 # 🚀 Contact Manager App
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-Framework-blue?style=for-the-badge&logo=flutter"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=28&center=true&vCenter=true&width=600&lines=Gerenciador+de+Contatos+Mobile;Flutter+%2B+Dart+%2B+SQLite;Projeto+Integrador+V;Desenvolvido+por+Isa%C3%ADas+Dev"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flutter-Mobile-blue?style=for-the-badge&logo=flutter"/>
   <img src="https://img.shields.io/badge/Dart-Language-blue?style=for-the-badge&logo=dart"/>
   <img src="https://img.shields.io/badge/SQLite-Database-lightgrey?style=for-the-badge&logo=sqlite"/>
-  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📱 Sobre o Projeto
 
-Aplicativo mobile desenvolvido para gerenciamento de contatos, permitindo realizar operações completas de **CRUD (Create, Read, Update, Delete)** utilizando banco de dados local.
+Este é um aplicativo mobile desenvolvido com foco em **gerenciamento de contatos**, permitindo operações completas de:
 
-Este projeto foi desenvolvido como parte do **Projeto Integrador V** do curso de Análise e Desenvolvimento de Sistemas.
+<p align="center">
+  ➕ Criar &nbsp;&nbsp; 📖 Ler &nbsp;&nbsp; ✏️ Atualizar &nbsp;&nbsp; 🗑️ Deletar
+</p>
+
+Projeto desenvolvido como parte do **Projeto Integrador V**, aplicando conceitos reais de desenvolvimento mobile.
 
 ---
 
 ## 🎯 Objetivo
 
-Desenvolver uma aplicação mobile capaz de:
+Criar uma aplicação funcional, intuitiva e organizada, utilizando:
 
-- ➕ Cadastrar contatos  
-- 📋 Listar contatos  
-- ✏️ Editar informações  
-- 🗑️ Excluir contatos  
-
-Com foco em usabilidade, organização e boas práticas de desenvolvimento.
+- 📲 Interface amigável  
+- 🗄️ Banco de dados local  
+- ⚡ Alto desempenho  
+- 🧠 Boas práticas de desenvolvimento  
 
 ---
 
-## ⚡ Metodologia
+## 🧠 Metodologia Ágil
 
-Foi utilizada a metodologia ágil:
+### ⚡ Extreme Programming (XP)
 
-### 💡 Extreme Programming (XP)
-
-- ✔ Simplicidade  
-- 🔁 Feedback contínuo  
-- 💪 Coragem para resolver problemas  
-- 🤝 Comunicação  
-- 🧠 Respeito  
+✔ Simplicidade  
+✔ Feedback contínuo  
+✔ Comunicação  
+✔ Respeito  
+✔ Coragem  
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite,vscode,git,github"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite,vscode,git,github&theme=dark"/>
 </p>
 
 ---
