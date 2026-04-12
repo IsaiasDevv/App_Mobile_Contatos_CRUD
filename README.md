@@ -1,34 +1,54 @@
-# 💼 Contact Manager App
+# 📱 Contact Manager App
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=26&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Contact+Manager+App;Flutter+%7C+Dart+%7C+SQLite;Projeto+Integrador+V"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=28&duration=2500&pause=800&color=2563EB&center=true&vCenter=true&width=650&lines=Contact+Manager+App;Flutter+%7C+Dart+%7C+SQLite;CRUD+Application;Projeto+Integrador+V"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-finalizado-22c55e?style=flat-square"/>
-  <img src="https://img.shields.io/badge/flutter-mobile-3B82F6?style=flat-square&logo=flutter"/>
-  <img src="https://img.shields.io/badge/dart-language-2563eb?style=flat-square&logo=dart"/>
-  <img src="https://img.shields.io/badge/sqlite-database-64748b?style=flat-square&logo=sqlite"/>
+  <img src="https://img.shields.io/badge/status-concluído-22c55e?style=for-the-badge&logo=checkmarx"/>
+  <img src="https://img.shields.io/badge/flutter-mobile-3B82F6?style=for-the-badge&logo=flutter"/>
+  <img src="https://img.shields.io/badge/dart-language-2563EB?style=for-the-badge&logo=dart"/>
+  <img src="https://img.shields.io/badge/sqlite-database-64748b?style=for-the-badge&logo=sqlite"/>
 </p>
 
 ---
 
-## ✨ Sobre
+## ✨ Sobre o Projeto
 
-Aplicação mobile para gerenciamento de contatos com operações completas de CRUD, desenvolvida com foco em simplicidade, organização e experiência do usuário.
+Aplicação mobile desenvolvida para gerenciamento de contatos, permitindo operações completas de **CRUD (Create, Read, Update e Delete)** com armazenamento local.
 
----
-
-## 🚀 Funcionalidades
-
-- ➕ Cadastro de contatos  
-- 📋 Listagem dinâmica  
-- ✏️ Edição de informações  
-- 🗑️ Exclusão de registros  
+Este projeto foi desenvolvido como parte do **Projeto Integrador V**, com foco em boas práticas, organização e experiência do usuário.
 
 ---
 
-## 🛠️ Stack
+## 🎯 Objetivo
+
+Criar uma aplicação capaz de:
+
+- ➕ Cadastrar contatos  
+- 📋 Listar contatos  
+- ✏️ Editar informações  
+- 🗑️ Excluir registros  
+
+Com interface simples, rápida e funcional.
+
+---
+
+## 🧠 Metodologia
+
+Utilização da metodologia ágil:
+
+### ⚡ Extreme Programming (XP)
+
+- ✔ Simplicidade  
+- 🔁 Feedback contínuo  
+- 🤝 Comunicação  
+- 💪 Coragem  
+- 🧠 Respeito  
+
+---
+
+## 🛠️ Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flutter,dart,sqlite,git,github,vscode"/>
@@ -36,7 +56,7 @@ Aplicação mobile para gerenciamento de contatos com operações completas de C
 
 ---
 
-## 🧱 Estrutura
+## 🧱 Estrutura do Projeto
 
 ```bash
 lib/
